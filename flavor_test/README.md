@@ -1,16 +1,5 @@
 # flavor_test
 
-A new Flutter project.
+flutter 에서 dev, staging, product 환경에 따른 설정을 다르게 주기 위한 flavor 작업 테스트
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://velog.io/@udong85/Flutter-flavor-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95
