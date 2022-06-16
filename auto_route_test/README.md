@@ -1,16 +1,5 @@
 # auto_route
 
-A new Flutter project.
+auto_route 학습을 위한 테스트 프로젝트
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://velog.io/@udong85/Flutter-auto-route-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%99%94%EB%A9%B4-%EC%9D%B4%EB%8F%99-1
